@@ -12,7 +12,7 @@ This is a logger tool to log. Simple, efficient, it can take whatever input a co
 
 If you are using node:
 
-    npm install --save https://github.com/jokesterfr/logger.git
+    npm install --save git://github.com/jokesterfr/logger.git
 
 If you are importing it in the browser
 
